@@ -58,7 +58,6 @@ class Solution {
         return ans;
     }
 };
-};
 ```
 ## Complexity
 - Time complexity : O(NlogN) + O(N * log(max(stalls[])-min(stalls[])))
